@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### YO 👋
 
-You can use the [editor on GitHub](https://github.com/pabli24/pabli24.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My scripts/styles
+* [![](https://www.google.com/s2/favicons?domain_url=https://greasyfork.org)](https://greasyfork.org/users/124677-pabli) [GreasyFork](https://greasyfork.org/users/124677-pabli)
 
-### Markdown
+* [![](https://www.google.com/s2/favicons?domain_url=https://userstyles.world)](https://userstyles.world/user/pabli) [UserStyles.world](https://userstyles.world/user/pabli)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [![](https://www.google.com/s2/favicons?domain_url=https://uso.kkx.one)](https://uso.kkx.one/browse/styles?search=%40291236) [UserStyles.org Archive](https://uso.kkx.one/browse/styles?search=%40291236)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Socials
+* [![](https://www.google.com/s2/favicons?domain_url=https://www.youtube.com)](https://www.youtube.com/channel/UCYBGL_gSC8bQXCMIvqfVing) [YouTube](https://www.youtube.com/channel/UCYBGL_gSC8bQXCMIvqfVing)
 
-- Bulleted
-- List
+* [![](https://www.google.com/s2/favicons?domain_url=https://twitter.com)](https://twitter.com/PabliDev) [Twitter](https://twitter.com/PabliDev)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Other
+* [![](https://www.google.com/s2/favicons?domain_url=https://www.transifex.com/user/profile/pabli)](https://www.transifex.com/user/profile/pabli) [transifex](https://www.transifex.com/user/profile/pabli)
 
-[Link](url) and ![Image](src)
-```
+* [![](https://www.google.com/s2/favicons?domain_url=https://www.curseforge.com)](https://www.curseforge.com/members/pabli) [CurseForge](https://www.curseforge.com/members/pabli)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A21YYBO)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pabli24/pabli24.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
