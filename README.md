@@ -21,5 +21,4 @@
 * [![](https://www.google.com/s2/favicons?domain_url=https://www.curseforge.com)](https://www.curseforge.com/members/pabli) [CurseForge](https://www.curseforge.com/members/pabli)
 
 ## Support
-[![ko-fi](https://cdn.ko-fi.com/cdn/kofi5.png?v=2)](https://ko-fi.com/pabli)
-
+<a href='https://ko-fi.com/pabli' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
