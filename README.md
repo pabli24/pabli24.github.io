@@ -21,5 +21,5 @@
 * [![](https://www.google.com/s2/favicons?domain_url=https://www.curseforge.com)](https://www.curseforge.com/members/pabli) [CurseForge](https://www.curseforge.com/members/pabli)
 
 ## Support
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A21YYBO)
+[![ko-fi](https://cdn.ko-fi.com/cdn/kofi5.png?v=2)](https://ko-fi.com/pabli)
 
